@@ -1,5 +1,5 @@
 Vintage Photobooth Clone Implementation Plan
-We will create a high-fidelity, premium clone of the vintage photobooth application found at https://photoboothbymikee.floot.app/. The project will be built with HTML, Vanilla CSS, and modern Javascript, implementing all routing, camera filters, countdown sequences, and image strip extraction features.
+will create a high-fidelity, premium clone of the vintage photobooth application found at https://photobooth-d831nj5xd-jaspreetkb08-langs-projects.vercel.app/. The project will be built with HTML, Vanilla CSS, and modern Javascript, implementing all routing, camera filters, countdown sequences, and image strip extraction features.
 
 Proposed Layout & Routing
 We will build a Single Page Application (SPA) inside a clean folder structure. View switching (routing) will be handled dynamically in Javascript to maintain seamless transitions:
